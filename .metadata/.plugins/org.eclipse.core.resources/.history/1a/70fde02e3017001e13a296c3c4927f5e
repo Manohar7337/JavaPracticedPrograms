@@ -1,0 +1,10 @@
+package com.Kodnest.SecondSpringProject;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DisplayController {
+	public String displayImagePage() {
+	return "redirect:/home.html";
+	}
+}

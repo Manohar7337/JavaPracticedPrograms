@@ -1,0 +1,10 @@
+package com.Kodnest.FirstSpringProject;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class GreetController {
+	public String greet() {
+		return "Hello World";
+	}
+}

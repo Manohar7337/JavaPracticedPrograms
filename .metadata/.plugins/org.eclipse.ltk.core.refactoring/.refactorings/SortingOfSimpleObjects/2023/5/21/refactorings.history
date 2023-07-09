@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ArrayDeque.java&apos; to &apos;ArrayDequeEx.java&apos;&#x0D;&#x0A;- Original project: &apos;SortingOfSimpleObjects&apos;&#x0D;&#x0A;- Original element: &apos;ArrayDeque.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ArrayDequeEx.java&apos;" description="Rename compilation unit &apos;ArrayDeque.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{ArrayDeque.java" name="ArrayDequeEx.java" references="false" stamp="1684749737010" version="1.0"/>
+</session>

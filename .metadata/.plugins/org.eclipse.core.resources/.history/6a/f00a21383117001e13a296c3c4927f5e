@@ -1,0 +1,12 @@
+package com.Kodnest.SecondSpringProject;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.Controller;
+
+@Controller
+public class DisplayController {
+	@GetMapping("/display")
+	public String displayImagePage() {
+	return "redirect:/home.html";
+	}
+}

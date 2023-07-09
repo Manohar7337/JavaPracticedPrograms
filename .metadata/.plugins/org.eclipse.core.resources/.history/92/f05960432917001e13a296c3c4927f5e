@@ -1,0 +1,5 @@
+package com.Kodnest.FirstSpringProject;
+
+public class GreetController {
+
+}

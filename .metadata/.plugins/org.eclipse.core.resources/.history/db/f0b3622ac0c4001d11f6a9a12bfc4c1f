@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class AbundantOrNotApp {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+System.out.println("enter a number");
+int num=scan.nextInt();
+boolean result=AbundantOrNot.isAbundant(num);
+System.out.println(result);
+	}
+
+}
